@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  background-color: #202e38;
+}
+.palette{
+  display: flex;
+  flex-direction: column;
+}
+.palette>button{
+  margin-top: 15px;
+}
