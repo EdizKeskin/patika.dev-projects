@@ -1,0 +1,13 @@
+html{
+  background-color: #322F3D;
+}
+
+.container {
+  width: 700px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+  flex-direction: column;
+}
